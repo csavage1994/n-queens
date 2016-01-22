@@ -61,7 +61,7 @@ window.countNRooksSolutions = function(n) {
     }
   
   } 
-  //solutionCount(0);
+  solutionCount(0);
   console.log('Number of solutions for ' + n + ' rooks:', result);
   return result;
 };
